@@ -1,8 +1,7 @@
 # song_recommender_system-python-
 Song Recommender system using following filtering algorithms:
-1) popularity based filtering
-2) Item-Item based collaborative filtering
-3) User-Item based collaborative filtering
+1) popularity based filtering.
+2) Item-Item based collaborative filtering.
 
 ##Dependencies
 
